@@ -1,0 +1,16 @@
+.profile_img {
+    width: 7em;
+    height: 7em;
+    background-color: #fff;
+    border-radius: 50%;
+    margin: 0 auto 2em;
+    overflow: hidden;
+    border: 4px solid #fff;
+}
+.profile_img img {
+    width: 100%;
+}
+
+#footer .feature-list {
+    width: 800px;
+}
