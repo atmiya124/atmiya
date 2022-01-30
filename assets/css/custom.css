@@ -14,3 +14,14 @@
 #footer .feature-list {
     width: 800px;
 }
+
+.text-center {
+    text-align: center;
+}
+
+.secondary-title {
+    margin-bottom: 3em;
+}
+.secondary-title h3{
+    font-size: 14pt;
+}
