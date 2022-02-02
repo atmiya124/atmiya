@@ -25,3 +25,7 @@
 .secondary-title h3{
     font-size: 14pt;
 }
+
+#titleBar {
+    display: none;
+}
