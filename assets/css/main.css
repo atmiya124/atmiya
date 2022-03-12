@@ -1686,8 +1686,6 @@ ul.actions.special {
 }
 
 .feature-list section {
-  border-top: solid 1px #eee;
-  padding-top: 3em;
   padding-left: 5em;
   position: relative;
 }
